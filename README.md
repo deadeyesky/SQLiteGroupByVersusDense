@@ -12,7 +12,7 @@ Simple benchmark of SQLite3 using Python to test comparable queries for a test c
 Here is an example:
 
 Table schema:
-```
+```sql
 CREATE TABLE Department (
     id INTEGER PRIMARY KEY,
     name TEXT NOT NULL
